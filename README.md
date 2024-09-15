@@ -6,4 +6,4 @@
 ![ss3](https://github.com/user-attachments/assets/0657924f-7dd4-4349-85d2-4f41ed42580b)
 
 ### Run this website on your device:
-https://tanvis3000.github.io/MovingStartup/
+
